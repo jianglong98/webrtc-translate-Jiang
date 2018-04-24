@@ -34,4 +34,4 @@ You will need the following things properly installed on your computer.
 * If you're having issues with accessing your mic and camera via HTTP, you can run `ssh -R 80:localhost:4200 serveo.net` and then access the app via provided HTTPS URL.
 
 ## Edit Jiang Long 
-## updated on Apr 2018
+
