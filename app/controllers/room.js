@@ -27,7 +27,7 @@ export default Ember.Controller.extend({
         this.set('recognition.language', language);
     }),
 
-    remoteSpeechLanguage: 'de-DE',
+    remoteSpeechLanguage: 'zh-CN',
     remoteTranslationLanguage: Ember.computed('remoteSpeechLanguage', function () {
         return this.get('remoteSpeechLanguage').split('-')[0];
     }),

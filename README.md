@@ -27,8 +27,11 @@ You will need the following things properly installed on your computer.
 * `yarn`
 * `bower install`
 
-## Running / Development
+## Running / Development guide
 
 * `* GOOGLE_TRANSLATE_API_KEY='xxx' yarn start --environment development`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * If you're having issues with accessing your mic and camera via HTTP, you can run `ssh -R 80:localhost:4200 serveo.net` and then access the app via provided HTTPS URL.
+
+## Edit Jiang Long 
+## updated on Apr 2018
