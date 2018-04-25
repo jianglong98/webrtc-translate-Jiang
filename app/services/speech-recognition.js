@@ -18,7 +18,7 @@ export default Ember.Service.extend(Ember.Evented, {
         // 'cmn-Hans-CN',
         'zh-CN'
     ],
-    language: 'en-US',
+    language: 'en-GB',
 
     init: function () {
         this._super();
